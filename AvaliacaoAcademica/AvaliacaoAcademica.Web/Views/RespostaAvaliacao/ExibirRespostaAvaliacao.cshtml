@@ -1,0 +1,23 @@
+﻿@model AvaliacaoAcademica.Domain.Model.RespostaAvaliacao
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>ExibirRespostaAvaliacao</title>
+</head>
+<body>
+    <fieldset>
+        <legend>RespostaAvaliacao</legend>
+    </fieldset>
+    <p>
+        @Html.ActionLink("Editar Resposta Avaliacao", "EditarRespostaAvaliacao", new { id = Model.Id }) |
+        @Html.ActionLink("Voltar", "RespostaAvaliacao")
+    </p>
+</body>
+</html>

@@ -1,0 +1,65 @@
+﻿<RecentFiles>
+  <RecentFiles>
+    <File id="5A61E3A9-7C47-4D77-8F87-99A248BC22FB/d:Repository/f:IDAL.cs" caret="377" fromTop="13" />
+    <File id="5A61E3A9-7C47-4D77-8F87-99A248BC22FB/d:Implementation/f:RespRespostaAvaliacao.cs" caret="285" fromTop="8" />
+    <File id="5A61E3A9-7C47-4D77-8F87-99A248BC22FB/d:Mapping/f:QuestaoMapping.cs" caret="336" fromTop="10" />
+    <File id="FC696A93-636A-4C5C-B8FC-6DCD36E3B123/d:Views/d:Resposta/f:EditarRespostas.cshtml" caret="1106" fromTop="22" />
+    <File id="FC696A93-636A-4C5C-B8FC-6DCD36E3B123/d:Views/d:Resposta/f:ExcluirRespostas.cshtml" caret="715" fromTop="23" />
+    <File id="FC696A93-636A-4C5C-B8FC-6DCD36E3B123/d:Views/d:Resposta/f:ExibirRespostas.cshtml" caret="567" fromTop="25" />
+    <File id="FC696A93-636A-4C5C-B8FC-6DCD36E3B123/d:Views/d:Resposta/f:Respostas.cshtml" caret="216" fromTop="11" />
+    <File id="FC696A93-636A-4C5C-B8FC-6DCD36E3B123/d:Views/d:Resposta/f:InserirRespostas.cshtml" caret="753" fromTop="21" />
+    <File id="5A61E3A9-7C47-4D77-8F87-99A248BC22FB/d:Builder/f:HybridSessionBuilder.cs" caret="2381" fromTop="12" />
+    <File id="5A61E3A9-7C47-4D77-8F87-99A248BC22FB/d:Implementation/f:RespResposta.cs" caret="1249" fromTop="13" />
+    <File id="FC696A93-636A-4C5C-B8FC-6DCD36E3B123/d:Controllers/f:QuestaoController.cs" caret="0" fromTop="0" />
+    <File id="5A61E3A9-7C47-4D77-8F87-99A248BC22FB/d:Repository/f:IRepository.cs" caret="328" fromTop="12" />
+    <File id="5A61E3A9-7C47-4D77-8F87-99A248BC22FB/d:Implementation/f:BaseDAL.cs" caret="2352" fromTop="14" />
+    <File id="5A61E3A9-7C47-4D77-8F87-99A248BC22FB/d:Implementation/f:RespQuestao.cs" caret="1264" fromTop="13" />
+    <File id="5A61E3A9-7C47-4D77-8F87-99A248BC22FB/d:Implementation/f:RepAvaliacao.cs" caret="1304" fromTop="18" />
+    <File id="FC696A93-636A-4C5C-B8FC-6DCD36E3B123/d:Views/d:Avaliacao/f:ExcluirAvaliacao.cshtml" caret="1848" fromTop="18" />
+    <File id="FC696A93-636A-4C5C-B8FC-6DCD36E3B123/d:Views/d:Avaliacao/f:EditarAvaliacao.cshtml" caret="2452" fromTop="22" />
+    <File id="FC696A93-636A-4C5C-B8FC-6DCD36E3B123/d:Views/d:Avaliacao/f:InserirAvaliacao.cshtml" caret="2401" fromTop="20" />
+    <File id="FC696A93-636A-4C5C-B8FC-6DCD36E3B123/d:Views/d:Avaliacao/f:Avaliacao.cshtml" caret="0" fromTop="0" />
+    <File id="FC696A93-636A-4C5C-B8FC-6DCD36E3B123/d:Views/d:Avaliacao/f:ExibirAvaliacao.cshtml" caret="0" fromTop="0" />
+    <File id="420F0CEC-C489-4B88-B6AE-60AADC412CAD/d:Model/f:RespostaAvaliacao.cs" caret="63" fromTop="2" />
+    <File id="FC696A93-636A-4C5C-B8FC-6DCD36E3B123/d:Controllers/f:AvaliacaoController.cs" caret="2151" fromTop="19" />
+    <File id="FC696A93-636A-4C5C-B8FC-6DCD36E3B123/d:Controllers/f:RespostaController.cs" caret="2061" fromTop="15" />
+    <File id="FC696A93-636A-4C5C-B8FC-6DCD36E3B123/d:Views/d:RespostaAvaliacao/f:ExcluirRespostaAvaliacao.cshtml" caret="510" fromTop="21" />
+    <File id="FC696A93-636A-4C5C-B8FC-6DCD36E3B123/d:Views/d:RespostaAvaliacao/f:InserirRespostaAvaliacao.cshtml" caret="766" fromTop="18" />
+    <File id="FC696A93-636A-4C5C-B8FC-6DCD36E3B123/d:Views/d:RespostaAvaliacao/f:ExibirRespostaAvaliacao.cshtml" caret="469" fromTop="19" />
+    <File id="FC696A93-636A-4C5C-B8FC-6DCD36E3B123/d:Controllers/f:RespostaAvaliacaoController.cs" caret="2575" fromTop="27" />
+    <File id="FC696A93-636A-4C5C-B8FC-6DCD36E3B123/d:Views/d:RespostaAvaliacao/f:EditarRespostaAvaliacao.cshtml" caret="476" fromTop="18" />
+    <File id="FC696A93-636A-4C5C-B8FC-6DCD36E3B123/d:Views/d:RespostaAvaliacao/f:RespostaAvaliacao.cshtml" caret="417" fromTop="15" />
+  </RecentFiles>
+  <RecentEdits>
+    <File id="420F0CEC-C489-4B88-B6AE-60AADC412CAD/d:Model/f:Curso.cs" caret="317" fromTop="12" />
+    <File id="FC696A93-636A-4C5C-B8FC-6DCD36E3B123/d:Views/d:Questao/f:Create.cshtml" caret="673" fromTop="14" />
+    <File id="5A61E3A9-7C47-4D77-8F87-99A248BC22FB/d:Repository/f:IDAL.cs" caret="447" fromTop="14" />
+    <File id="5A61E3A9-7C47-4D77-8F87-99A248BC22FB/d:Implementation/f:BaseDAL.cs" caret="3087" fromTop="19" />
+    <File id="5A61E3A9-7C47-4D77-8F87-99A248BC22FB/d:Repository/f:IRepository.cs" caret="500" fromTop="18" />
+    <File id="5A61E3A9-7C47-4D77-8F87-99A248BC22FB/d:Implementation/f:RespRespostaAvaliacao.cs" caret="295" fromTop="8" />
+    <File id="5A61E3A9-7C47-4D77-8F87-99A248BC22FB/d:Mapping/f:QuestaoMapping.cs" caret="336" fromTop="10" />
+    <File id="FC696A93-636A-4C5C-B8FC-6DCD36E3B123/d:Controllers/f:QuestaoController.cs" caret="470" fromTop="2" />
+    <File id="FC696A93-636A-4C5C-B8FC-6DCD36E3B123/d:Views/d:Resposta/f:ExibirRespostas.cshtml" caret="567" fromTop="25" />
+    <File id="FC696A93-636A-4C5C-B8FC-6DCD36E3B123/d:Views/d:Resposta/f:EditarRespostas.cshtml" caret="1106" fromTop="22" />
+    <File id="FC696A93-636A-4C5C-B8FC-6DCD36E3B123/d:Views/d:Resposta/f:ExcluirRespostas.cshtml" caret="715" fromTop="23" />
+    <File id="FC696A93-636A-4C5C-B8FC-6DCD36E3B123/d:Views/d:Resposta/f:Respostas.cshtml" caret="311" fromTop="15" />
+    <File id="FC696A93-636A-4C5C-B8FC-6DCD36E3B123/d:Views/d:Resposta/f:InserirRespostas.cshtml" caret="753" fromTop="21" />
+    <File id="5A61E3A9-7C47-4D77-8F87-99A248BC22FB/d:Builder/f:HybridSessionBuilder.cs" caret="2381" fromTop="12" />
+    <File id="FC696A93-636A-4C5C-B8FC-6DCD36E3B123/d:Controllers/f:RespostaController.cs" caret="1663" fromTop="17" />
+    <File id="5A61E3A9-7C47-4D77-8F87-99A248BC22FB/d:Implementation/f:RespResposta.cs" caret="1138" fromTop="8" />
+    <File id="FC696A93-636A-4C5C-B8FC-6DCD36E3B123/d:Views/d:Avaliacao/f:ExibirAvaliacao.cshtml" caret="1801" fromTop="16" />
+    <File id="FC696A93-636A-4C5C-B8FC-6DCD36E3B123/d:Views/d:Avaliacao/f:ExcluirAvaliacao.cshtml" caret="1848" fromTop="18" />
+    <File id="FC696A93-636A-4C5C-B8FC-6DCD36E3B123/d:Views/d:Avaliacao/f:EditarAvaliacao.cshtml" caret="2452" fromTop="22" />
+    <File id="FC696A93-636A-4C5C-B8FC-6DCD36E3B123/d:Views/d:Avaliacao/f:InserirAvaliacao.cshtml" caret="2401" fromTop="20" />
+    <File id="FC696A93-636A-4C5C-B8FC-6DCD36E3B123/d:Views/d:Avaliacao/f:Avaliacao.cshtml" caret="1885" fromTop="14" />
+    <File id="5A61E3A9-7C47-4D77-8F87-99A248BC22FB/d:Implementation/f:RespQuestao.cs" caret="940" fromTop="5" />
+    <File id="5A61E3A9-7C47-4D77-8F87-99A248BC22FB/d:Implementation/f:RepAvaliacao.cs" caret="1304" fromTop="18" />
+    <File id="FC696A93-636A-4C5C-B8FC-6DCD36E3B123/d:Controllers/f:AvaliacaoController.cs" caret="2087" fromTop="26" />
+    <File id="FC696A93-636A-4C5C-B8FC-6DCD36E3B123/d:Controllers/f:RespostaAvaliacaoController.cs" caret="2428" fromTop="23" />
+    <File id="FC696A93-636A-4C5C-B8FC-6DCD36E3B123/d:Views/d:RespostaAvaliacao/f:ExibirRespostaAvaliacao.cshtml" caret="469" fromTop="19" />
+    <File id="FC696A93-636A-4C5C-B8FC-6DCD36E3B123/d:Views/d:RespostaAvaliacao/f:InserirRespostaAvaliacao.cshtml" caret="766" fromTop="18" />
+    <File id="FC696A93-636A-4C5C-B8FC-6DCD36E3B123/d:Views/d:RespostaAvaliacao/f:ExcluirRespostaAvaliacao.cshtml" caret="510" fromTop="21" />
+    <File id="FC696A93-636A-4C5C-B8FC-6DCD36E3B123/d:Views/d:RespostaAvaliacao/f:EditarRespostaAvaliacao.cshtml" caret="817" fromTop="14" />
+    <File id="FC696A93-636A-4C5C-B8FC-6DCD36E3B123/d:Views/d:RespostaAvaliacao/f:RespostaAvaliacao.cshtml" caret="340" fromTop="10" />
+  </RecentEdits>
+</RecentFiles>

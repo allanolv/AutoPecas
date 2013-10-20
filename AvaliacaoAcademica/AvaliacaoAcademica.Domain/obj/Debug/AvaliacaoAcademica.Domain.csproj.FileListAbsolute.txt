@@ -1,0 +1,5 @@
+C:\MIT\PROJETODEBLOCO\App.NET\AvaliacaoAcademica\AvaliacaoAcademica.Domain\bin\Debug\AvaliacaoAcademica.Domain.dll
+C:\MIT\PROJETODEBLOCO\App.NET\AvaliacaoAcademica\AvaliacaoAcademica.Domain\bin\Debug\AvaliacaoAcademica.Domain.pdb
+C:\MIT\PROJETODEBLOCO\App.NET\AvaliacaoAcademica\AvaliacaoAcademica.Domain\obj\Debug\ResolveAssemblyReference.cache
+C:\MIT\PROJETODEBLOCO\App.NET\AvaliacaoAcademica\AvaliacaoAcademica.Domain\obj\Debug\AvaliacaoAcademica.Domain.dll
+C:\MIT\PROJETODEBLOCO\App.NET\AvaliacaoAcademica\AvaliacaoAcademica.Domain\obj\Debug\AvaliacaoAcademica.Domain.pdb

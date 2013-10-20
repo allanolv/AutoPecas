@@ -1,0 +1,5 @@
+<Modules>
+  <Module PersistentId="420F0CEC-C489-4B88-B6AE-60AADC412CAD" ModuleId="AvaliacaoAcademica.Domain" />
+  <Module PersistentId="5A61E3A9-7C47-4D77-8F87-99A248BC22FB" ModuleId="AvaliacaoAcademica.Infraestrutura.NHibernate" />
+  <Module PersistentId="FC696A93-636A-4C5C-B8FC-6DCD36E3B123" ModuleId="AvaliacaoAcademica.Web" />
+</Modules>

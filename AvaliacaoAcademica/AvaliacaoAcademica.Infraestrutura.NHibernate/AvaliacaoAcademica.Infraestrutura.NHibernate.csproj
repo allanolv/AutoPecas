@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{5A61E3A9-7C47-4D77-8F87-99A248BC22FB}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>AvaliacaoAcademica.Infraestrutura.NHibernate</RootNamespace>
+    <AssemblyName>AvaliacaoAcademica.Infraestrutura.NHibernate</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="FluentNHibernate">
+      <HintPath>..\packages\FluentNHibernate.1.3.0.733\lib\FluentNHibernate.dll</HintPath>
+    </Reference>
+    <Reference Include="Iesi.Collections">
+      <HintPath>..\packages\Iesi.Collections.3.2.0.4000\lib\Net35\Iesi.Collections.dll</HintPath>
+    </Reference>
+    <Reference Include="NHibernate">
+      <HintPath>..\packages\NHibernate.3.3.3.4001\lib\Net35\NHibernate.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Builder\HybridSessionBuilder.cs" />
+    <Compile Include="Implementation\BaseDAL.cs" />
+    <Compile Include="Implementation\RepAvaliacao.cs" />
+    <Compile Include="Implementation\RespQuestao.cs" />
+    <Compile Include="Implementation\RespResposta.cs" />
+    <Compile Include="Implementation\RespRespostaAvaliacao.cs" />
+    <Compile Include="Mapping\AlunoMapping.cs" />
+    <Compile Include="Mapping\AlunoTurmaMapping.cs" />
+    <Compile Include="Mapping\AvaliacaoMapping.cs" />
+    <Compile Include="Mapping\AvaliacaoQuestoesMapping.cs" />
+    <Compile Include="Mapping\CursoMapping.cs" />
+    <Compile Include="Mapping\ModuloMapping.cs" />
+    <Compile Include="Mapping\ProfessorMapping.cs" />
+    <Compile Include="Mapping\QuestaoMapping.cs" />
+    <Compile Include="Mapping\QuestaoRespostasMapping.cs" />
+    <Compile Include="Mapping\RespostaAvaliacaoMapping.cs" />
+    <Compile Include="Mapping\RespostaMapping.cs" />
+    <Compile Include="Mapping\TurmaMapping.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Repository\IDAL.cs" />
+    <Compile Include="Repository\IRepository.cs" />
+    <Compile Include="Servicos\ServEnviarConvite.cs" />
+    <Compile Include="Servicos\ServExportarExcel.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\AvaliacaoAcademica.Domain\AvaliacaoAcademica.Domain.csproj">
+      <Project>{420F0CEC-C489-4B88-B6AE-60AADC412CAD}</Project>
+      <Name>AvaliacaoAcademica.Domain</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

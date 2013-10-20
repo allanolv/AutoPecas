@@ -1,0 +1,13 @@
+C:\MIT\PROJETODEBLOCO\App.NET\AvaliacaoAcademica\AvaliacaoAcademica.Infraestrutura.NHibernate\bin\Debug\AvaliacaoAcademica.Infraestrutura.NHibernate.dll
+C:\MIT\PROJETODEBLOCO\App.NET\AvaliacaoAcademica\AvaliacaoAcademica.Infraestrutura.NHibernate\bin\Debug\AvaliacaoAcademica.Infraestrutura.NHibernate.pdb
+C:\MIT\PROJETODEBLOCO\App.NET\AvaliacaoAcademica\AvaliacaoAcademica.Infraestrutura.NHibernate\bin\Debug\AvaliacaoAcademica.Domain.dll
+C:\MIT\PROJETODEBLOCO\App.NET\AvaliacaoAcademica\AvaliacaoAcademica.Infraestrutura.NHibernate\bin\Debug\FluentNHibernate.dll
+C:\MIT\PROJETODEBLOCO\App.NET\AvaliacaoAcademica\AvaliacaoAcademica.Infraestrutura.NHibernate\bin\Debug\Iesi.Collections.dll
+C:\MIT\PROJETODEBLOCO\App.NET\AvaliacaoAcademica\AvaliacaoAcademica.Infraestrutura.NHibernate\bin\Debug\NHibernate.dll
+C:\MIT\PROJETODEBLOCO\App.NET\AvaliacaoAcademica\AvaliacaoAcademica.Infraestrutura.NHibernate\bin\Debug\AvaliacaoAcademica.Domain.pdb
+C:\MIT\PROJETODEBLOCO\App.NET\AvaliacaoAcademica\AvaliacaoAcademica.Infraestrutura.NHibernate\bin\Debug\FluentNHibernate.xml
+C:\MIT\PROJETODEBLOCO\App.NET\AvaliacaoAcademica\AvaliacaoAcademica.Infraestrutura.NHibernate\bin\Debug\Iesi.Collections.xml
+C:\MIT\PROJETODEBLOCO\App.NET\AvaliacaoAcademica\AvaliacaoAcademica.Infraestrutura.NHibernate\bin\Debug\NHibernate.xml
+C:\MIT\PROJETODEBLOCO\App.NET\AvaliacaoAcademica\AvaliacaoAcademica.Infraestrutura.NHibernate\obj\Debug\ResolveAssemblyReference.cache
+C:\MIT\PROJETODEBLOCO\App.NET\AvaliacaoAcademica\AvaliacaoAcademica.Infraestrutura.NHibernate\obj\Debug\AvaliacaoAcademica.Infraestrutura.NHibernate.dll
+C:\MIT\PROJETODEBLOCO\App.NET\AvaliacaoAcademica\AvaliacaoAcademica.Infraestrutura.NHibernate\obj\Debug\AvaliacaoAcademica.Infraestrutura.NHibernate.pdb

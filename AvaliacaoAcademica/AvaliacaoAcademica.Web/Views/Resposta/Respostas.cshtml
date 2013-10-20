@@ -1,0 +1,41 @@
+﻿@model IEnumerable<AvaliacaoAcademica.Domain.Model.Respostas>
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Respostas</title>
+</head>
+<body>
+    <p>
+        @Html.ActionLink("Inserir Nova Resposta", "InserirRespostas")
+    </p>
+    <table>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Descricao)
+            </th>
+            <th></th>
+        </tr>
+    
+    @foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Descricao)
+            </td>
+            <td>
+                @Html.ActionLink("Editar", "EditarRespostas", new { id=item.ID }) |
+                @Html.ActionLink("Exibir", "ExibirRespostas", new { id=item.ID }) |
+                @Html.ActionLink("Excluir", "ExcluirRespostas", new { id=item.ID })
+            </td>
+        </tr>
+    }
+    
+    </table>
+</body>
+</html>
