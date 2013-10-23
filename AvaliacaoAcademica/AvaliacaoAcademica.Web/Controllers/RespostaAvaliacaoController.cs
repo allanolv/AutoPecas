@@ -1,4 +1,6 @@
-﻿using System.Web.Mvc;
+﻿using System.Collections;
+using System.Collections.Generic;
+using System.Web.Mvc;
 using AvaliacaoAcademica.Domain.Model;
 using AvaliacaoAcademica.Infraestrutura.NHibernate.Implementation;
 using AvaliacaoAcademica.Infraestrutura.NHibernate.Repository;
@@ -18,7 +20,7 @@ namespace AvaliacaoAcademica.Web.Controllers
             return View(_repRespostaAvaliacao.ObterTodos);
         }
 
-        public ActionResult InserirRespostaAvaliacao()
+      public ActionResult InserirRespostaAvaliacao()
         {
             return View();
         }

@@ -1,5 +1,5 @@
-2013/10/19-14:42:50.881 c1c Recovering log #35
-2013/10/19-14:42:50.907 c1c Level-0 table #37: started
-2013/10/19-14:42:50.937 c1c Level-0 table #37: 11443 bytes OK
-2013/10/19-14:42:50.998 c1c Delete type=0 #35
-2013/10/19-14:42:50.998 c1c Delete type=3 #33
+2013/10/23-12:28:26.259 c4 Recovering log #71
+2013/10/23-12:28:26.286 c4 Level-0 table #73: started
+2013/10/23-12:28:26.584 c4 Level-0 table #73: 2205 bytes OK
+2013/10/23-12:28:26.879 c4 Delete type=0 #71
+2013/10/23-12:28:26.880 c4 Delete type=3 #69

@@ -15,24 +15,26 @@ namespace AvaliacaoAcademica.Web.Controllers
         }
 
       
-        public ActionResult Index()
+        public ActionResult Questao()
         {
             return View(_repQuestao.ObterTodos);
         }
 
-        public ActionResult Create()
+    
+       
+        public ActionResult CriarQuestao()
         {
             return View();
         }
 
         [HttpPost]
-        public ActionResult Create(Questao questao)
+        public ActionResult CriarQuestao(Questao questao)
         {  
             _repQuestao.Salvar(questao);
-            return RedirectToAction("Index");
+            return RedirectToAction("Questao");
         }
 
-         public ActionResult Edit(int id)
+         public ActionResult EditarQuestao(int id)
          {
              var questao = _repQuestao.BuscarPor(id);
             return View(questao);
@@ -40,7 +42,7 @@ namespace AvaliacaoAcademica.Web.Controllers
 
 
         [HttpPost]
-        public ActionResult Edit(Questao _questao)
+         public ActionResult EditarQuestao(Questao _questao)
         {
             var questao = _repQuestao.BuscarPor(_questao.Id);
 
@@ -48,24 +50,24 @@ namespace AvaliacaoAcademica.Web.Controllers
             
             _repQuestao.Atualizar(questao);
 
-            return RedirectToAction("Index");
+            return RedirectToAction("Questao");
         }
 
-        public ActionResult Delete(int id)
+        public ActionResult ExcluirQuestao(int id)
         {
             var questao = _repQuestao.BuscarPor(id);
             return View(questao);
         }
 
         [HttpPost]
-        public ActionResult Delete(Questao _questao)
+        public ActionResult ExcluirQuestao(Questao _questao)
         {
             var questao = _repQuestao.BuscarPor(_questao.Id);
             _repQuestao.Excluir(questao);
-            return RedirectToAction("Index");
+            return RedirectToAction("Questao");
         }
 
-        public ActionResult Details(int id)
+        public ActionResult ExibirQuestao(int id)
         {
             var questao = _repQuestao.FiltrandoPor(q => q.Id == id);
            

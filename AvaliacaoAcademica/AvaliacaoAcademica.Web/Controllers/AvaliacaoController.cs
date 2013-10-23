@@ -7,14 +7,14 @@ namespace AvaliacaoAcademica.Web.Controllers
 {
     public class AvaliacaoController : Controller
     {
-      private readonly IRepository<Avaliacao> _repAvaliacao;
+        private readonly IRepository<Avaliacao> _repAvaliacao;
 
-      public AvaliacaoController()
+        public AvaliacaoController()
         {
             _repAvaliacao = new RepAvaliacao();
         }
 
-      
+
         public ActionResult Avaliacao()
         {
             return View(_repAvaliacao.ObterTodos);
@@ -33,9 +33,9 @@ namespace AvaliacaoAcademica.Web.Controllers
         }
 
         public ActionResult EditarAvaliacao(int id)
-         {
-             var avaliacao = _repAvaliacao.BuscarPor(id);
-             return View(avaliacao);
+        {
+            var avaliacao = _repAvaliacao.BuscarPor(id);
+            return View(avaliacao);
         }
 
 

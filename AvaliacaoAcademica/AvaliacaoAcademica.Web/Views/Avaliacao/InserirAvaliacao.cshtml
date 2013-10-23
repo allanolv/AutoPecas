@@ -1,7 +1,7 @@
 ﻿@model AvaliacaoAcademica.Domain.Model.Avaliacao
 
 @{
-    Layout = null;
+    Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
 <!DOCTYPE html>
@@ -12,6 +12,10 @@
     <title>InserirAvaliacao</title>
 </head>
 <body>
+    <script src="~/Scripts/jquery-1.7.1.min.js"></script>
+    <script src="~/Scripts/jquery.validate.min.js"></script>
+    <script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
+    
     @using (Html.BeginForm()) {
         @Html.ValidationSummary(true)
     

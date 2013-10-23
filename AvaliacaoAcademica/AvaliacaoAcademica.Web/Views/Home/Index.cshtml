@@ -1,0 +1,29 @@
+﻿@{
+    ViewBag.Title = "Avaliação - Alunos da Pós-Graduação";
+}
+@section featured {
+    <section class="featured">
+        <div class="content-wrapper">
+            <hgroup class="title">
+                <h1>Avaliação - Alunos da Pós-Graduação</h1>
+            </hgroup>
+        </div>
+    </section>
+}
+<h3>Pro favor, preencha essa avaliação com toda atenção. Ela é muito importante para a melhoria contínua de seu curso. 
+    É através das avaliações que poderemos construir um curso cada vez melhor, o que é importante para voçê agora e para o valor
+    de seu diploma no futuro.</h3>
+
+<ol class="round">
+    <li class="one">
+        <h5>Avaliação geral da Pós-Graduação:</h5>
+       
+                    @Html.Action(
+                        "Questao",
+                        "Teste",
+                        null)
+               
+                    @Html.Action( "CriarQuestao", "Teste", null)  
+
+    </li>  
+</ol>

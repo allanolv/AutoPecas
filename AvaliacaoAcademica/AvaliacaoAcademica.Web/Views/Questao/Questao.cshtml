@@ -1,0 +1,27 @@
+﻿@model IEnumerable<AvaliacaoAcademica.Domain.Model.Questao>
+
+<p>
+    @Html.ActionLink("Criar", "CriarQuestao")
+</p>
+<table>
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Descricao)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Descricao)
+        </td>
+        <td>
+            @Html.ActionLink("Editar", "EditarQuestao", new { id=item.Id }) |
+            @Html.ActionLink("Exibir", "ExibirQuestao", new { id=item.Id }) |
+            @Html.ActionLink("Detalhar", "ExcluirQuestao", new { id=item.Id })
+        </td>
+    </tr>
+}
+  
+</table>

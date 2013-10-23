@@ -1,8 +1,9 @@
 ﻿@model AvaliacaoAcademica.Domain.Model.RespostaAvaliacao
 
 @{
-    Layout = null;
+    Layout = "~/Views/Shared/_Layout.cshtml";
 }
+
 
 <!DOCTYPE html>
 
@@ -16,20 +17,21 @@
     <script src="~/Scripts/jquery.validate.min.js"></script>
     <script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
     
-    @using (Html.BeginForm()) {
+    @using (Html.BeginForm("InserirRespostaAvaliacao","RespostaAvaliacao"))
+    {
         @Html.ValidationSummary(true)
     
         <fieldset>
             <legend>RespostaAvaliacao</legend>
     
             <p>
-                <input type="submit" value="Create" />
+               <input type="submit" value="Create" />
             </p>
         </fieldset>
     }
     
     <div>
-        @Html.ActionLink("Voltar", "RespostaAvaliacao")
+        @Html.ActionLink("Back to List", "Index")
     </div>
 </body>
 </html>

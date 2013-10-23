@@ -1,4 +1,6 @@
-﻿namespace AvaliacaoAcademica.Domain.Model
+﻿using System.Collections.Generic;
+
+namespace AvaliacaoAcademica.Domain.Model
 {
     public class RespostaAvaliacao
     {
@@ -7,6 +9,9 @@
         public virtual Aluno Aluno { get; set; }
         public virtual Avaliacao Avaliacao { get; set; }
         public virtual Questao Questao { get; set; }
+        public virtual List<Questao> Questoes { get; set; }
         public virtual Respostas Respostas { get; set; }
+
+        
     }
 }

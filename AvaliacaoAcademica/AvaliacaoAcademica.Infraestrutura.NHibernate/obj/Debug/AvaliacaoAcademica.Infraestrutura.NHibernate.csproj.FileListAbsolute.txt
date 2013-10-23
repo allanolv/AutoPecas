@@ -11,3 +11,16 @@ C:\MIT\PROJETODEBLOCO\App.NET\AvaliacaoAcademica\AvaliacaoAcademica.Infraestrutu
 C:\MIT\PROJETODEBLOCO\App.NET\AvaliacaoAcademica\AvaliacaoAcademica.Infraestrutura.NHibernate\obj\Debug\ResolveAssemblyReference.cache
 C:\MIT\PROJETODEBLOCO\App.NET\AvaliacaoAcademica\AvaliacaoAcademica.Infraestrutura.NHibernate\obj\Debug\AvaliacaoAcademica.Infraestrutura.NHibernate.dll
 C:\MIT\PROJETODEBLOCO\App.NET\AvaliacaoAcademica\AvaliacaoAcademica.Infraestrutura.NHibernate\obj\Debug\AvaliacaoAcademica.Infraestrutura.NHibernate.pdb
+C:\Users\DETONATOR\Documents\GitHub\AutoPecas\AvaliacaoAcademica\AvaliacaoAcademica.Infraestrutura.NHibernate\bin\Debug\AvaliacaoAcademica.Infraestrutura.NHibernate.dll
+C:\Users\DETONATOR\Documents\GitHub\AutoPecas\AvaliacaoAcademica\AvaliacaoAcademica.Infraestrutura.NHibernate\bin\Debug\AvaliacaoAcademica.Infraestrutura.NHibernate.pdb
+C:\Users\DETONATOR\Documents\GitHub\AutoPecas\AvaliacaoAcademica\AvaliacaoAcademica.Infraestrutura.NHibernate\bin\Debug\AvaliacaoAcademica.Domain.dll
+C:\Users\DETONATOR\Documents\GitHub\AutoPecas\AvaliacaoAcademica\AvaliacaoAcademica.Infraestrutura.NHibernate\bin\Debug\FluentNHibernate.dll
+C:\Users\DETONATOR\Documents\GitHub\AutoPecas\AvaliacaoAcademica\AvaliacaoAcademica.Infraestrutura.NHibernate\bin\Debug\Iesi.Collections.dll
+C:\Users\DETONATOR\Documents\GitHub\AutoPecas\AvaliacaoAcademica\AvaliacaoAcademica.Infraestrutura.NHibernate\bin\Debug\NHibernate.dll
+C:\Users\DETONATOR\Documents\GitHub\AutoPecas\AvaliacaoAcademica\AvaliacaoAcademica.Infraestrutura.NHibernate\bin\Debug\AvaliacaoAcademica.Domain.pdb
+C:\Users\DETONATOR\Documents\GitHub\AutoPecas\AvaliacaoAcademica\AvaliacaoAcademica.Infraestrutura.NHibernate\bin\Debug\FluentNHibernate.xml
+C:\Users\DETONATOR\Documents\GitHub\AutoPecas\AvaliacaoAcademica\AvaliacaoAcademica.Infraestrutura.NHibernate\bin\Debug\Iesi.Collections.xml
+C:\Users\DETONATOR\Documents\GitHub\AutoPecas\AvaliacaoAcademica\AvaliacaoAcademica.Infraestrutura.NHibernate\bin\Debug\NHibernate.xml
+C:\Users\DETONATOR\Documents\GitHub\AutoPecas\AvaliacaoAcademica\AvaliacaoAcademica.Infraestrutura.NHibernate\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DETONATOR\Documents\GitHub\AutoPecas\AvaliacaoAcademica\AvaliacaoAcademica.Infraestrutura.NHibernate\obj\Debug\AvaliacaoAcademica.Infraestrutura.NHibernate.dll
+C:\Users\DETONATOR\Documents\GitHub\AutoPecas\AvaliacaoAcademica\AvaliacaoAcademica.Infraestrutura.NHibernate\obj\Debug\AvaliacaoAcademica.Infraestrutura.NHibernate.pdb
